@@ -26,7 +26,7 @@ public class TaskListSet {
 
         if (taskToRemove == null) {
             System.out.println("Tarefa não encontrada!");
-          }
+        }
 
         this.taskList.remove(taskToRemove);
     }
