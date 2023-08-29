@@ -3,7 +3,7 @@ import java.util.Comparator;
 import java.util.List;
 
 public class Desafio7 {
-            // Desafio 7 - Encontrar o segundo número maior da lista:
+    // Desafio 7 - Encontrar o segundo número maior da lista:
     private List<Integer> numeros;
 
     public Desafio7() {

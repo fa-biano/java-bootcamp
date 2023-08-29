@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Desafio6 {
-        // Desafio 6 - Verificar se a lista contém algum número maior que 10:
+    // Desafio 6 - Verificar se a lista contém algum número maior que 10:
     private List<Integer> numeros;
 
     public Desafio6() {
