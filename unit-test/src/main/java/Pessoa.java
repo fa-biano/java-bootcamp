@@ -31,4 +31,10 @@ public class Pessoa {
     public boolean ehMaiorDeIdade() {
         return getIdade() >=18;
     }
+
+    public void definirMesada(int valor) {
+        if (valor <= 0) {
+            throw new IllegalArgumentException("Valor deve ser maior que zero!");
+        }
+    }
 }
